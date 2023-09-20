@@ -12,3 +12,6 @@
 ```
 python server.py
 ```
+
+link to the publish version
+https://inf8808-project.onrender.com/?fbclid=IwAR0Az4m7Z5ZOOZut1r3Eg3JQTwA0N0jGtUhoRqUBqJCoAYbPvc5N-0wW4g8
